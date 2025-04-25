@@ -16,7 +16,31 @@ Else
  
 Program:
 
-//type your code here
+```
+}; 
+int main() 
+{ 
+    int i,n; 
+    scanf("%d",&n); 
+    struct Subject *s = (struct Subject *)malloc(n*sizeof(struct Subject)); 
+    if(s==NULL) 
+    { 
+        printf("Memory Alocation Failed\n"); 
+        return 1; 
+    } 
+    for(i=0;i<n;i++) 
+    { 
+        scanf("%s %d",s[i].name,&s[i].marks); 
+    } 
+    for(i=0;i<n;i++) 
+    { 
+        printf("%s  %d\n",s[i].name,s[i].marks); 
+    } 
+     
+    free (s); 
+     
+    return 0; 
+} ```
 
 
 Output:
