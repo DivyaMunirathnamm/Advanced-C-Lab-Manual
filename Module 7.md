@@ -259,5 +259,6 @@ int main()
 ```
 Output:
 ![Screenshot 2025-04-25 103835](https://github.com/user-attachments/assets/ade5489a-1669-4758-9d23-fb791b78794d)
+
 Result:
 Thus, the program is verified successfully
