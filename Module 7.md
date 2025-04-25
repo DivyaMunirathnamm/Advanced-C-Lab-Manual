@@ -225,8 +225,7 @@ Algorithm:
 13.End the program by returning 0.
 
 Program:
-```
- 
+``` 
 #include <stdio.h> 
 #include <stdlib.h> 
 struct Subject 
@@ -258,9 +257,7 @@ int main()
     return 0; 
 }
 ```
-
 Output:
 ![Screenshot 2025-04-25 103835](https://github.com/user-attachments/assets/ade5489a-1669-4758-9d23-fb791b78794d)
-
 Result:
 Thus, the program is verified successfully
