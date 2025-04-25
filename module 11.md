@@ -214,7 +214,6 @@ o	Iterate through the sentence, checking each character.
 o	If a character is not a space, it may belong to a word. If it's the first non-space character after a space or at the start, increment the word count.
 4.	Handle spaces and punctuation: Skip over spaces, punctuation marks, and consider each word as a sequence of characters separated by spaces.
 5.	Display the result: After processing the sentence, output the total word count.
-
 Program:
 ```
 #include<stdio.h> 
@@ -235,9 +234,7 @@ int main()
 }
 ```
 Output:
-
 ![Screenshot 2025-04-25 112110](https://github.com/user-attachments/assets/1b52242b-5108-45a0-83c3-cf76323b7b7c)
-
 Result:
 Thus, the program that counts the number of words in a given sentence is verified 
 successfully.
