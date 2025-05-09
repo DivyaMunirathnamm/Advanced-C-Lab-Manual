@@ -185,9 +185,9 @@ The aim of this function is to retrieve the "peek" (the front element) of a queu
 Algorithm:
 
 1.	Check if the queue is empty:
-o	If the queue is empty (i.e., the front pointer is NULL), return an error or a message indicating that the queue is empty.
+o 	If the queue is empty (i.e., the front pointer is NULL), return an error or a message indicating that the queue is empty.
 2.	Access the front element:
-o	If the queue is not empty, return the data stored in the front node of the linked list (i.e., the element at the head of the queue).
+o	 If the queue is not empty, return the data stored in the front node of the linked list (i.e., the element at the head of the queue).
 
 Program:
 ```
