@@ -34,8 +34,8 @@ p=p->next;
 ```
 
 Output:
+![Screenshot 2025-05-09 234550](https://github.com/user-attachments/assets/3c9a95e6-880c-43dc-9bdb-cd74ab7626c0)
 
-![Screenshot 2025-05-09 234550](https://github.com/user-attachments/assets/6a713f33-6ab7-452c-a6e1-b5151e69e90b)
 
 Result:
 Thus, the program to display stack elements using linked list is verified successfully. 
@@ -75,8 +75,8 @@ head=head->next;
 ```
 Output:
 
-![Screenshot 2025-05-09 234644](https://github.com/user-attachments/assets/1cfe9e3a-03b5-4100-8f54-348c855512d4)
 
+![Screenshot 2025-05-09 234644](https://github.com/user-attachments/assets/1c96ca93-6bcd-451a-b1df-164e6ccd540c)
 
 
 Result:
@@ -120,8 +120,8 @@ front=front->next;
 
 Output:
 
+![Screenshot 2025-05-09 234807](https://github.com/user-attachments/assets/bd5d3588-5a44-4982-b236-01448d291f46)
 
-![Screenshot 2025-05-09 234807](https://github.com/user-attachments/assets/ff84226c-43da-4074-aa9c-c9615bc37ec9)
 
 Result:
 Thus, the program to display queue elements using linked list is verified successfully.
@@ -167,7 +167,7 @@ rear=p;
 
 Output:
 
-![Screenshot 2025-05-09 234917](https://github.com/user-attachments/assets/634a5178-dc4d-498b-9c26-e54e6961cc4d)
+![Screenshot 2025-05-09 234917](https://github.com/user-attachments/assets/d5c1d598-f581-4e9d-8396-12c9a3541b81)
 
 
 Result:
@@ -204,8 +204,8 @@ void peek()
 ````
 
 Output:
-![Screenshot 2025-05-09 235023](https://github.com/user-attachments/assets/bfb7bef0-a2fb-488b-b516-9d2cceb47d92)
 
+![Screenshot 2025-05-09 235023](https://github.com/user-attachments/assets/b5053c98-3a2b-4dbe-8917-8ea29e602a5f)
 
 Result:
 
